@@ -37843,13 +37843,13 @@ $1(a){var s=null
 return A.bL(s,s,B.n,s,s,s,s,s,s,s,s,s,s,s)},
 $S:154}
 A.Y2.prototype={
-$0(){A.h2(A.fV("https://forms.gle/A82kK51trfraJXtCA",0,null))},
+$0(){A.h2(A.fV("https://docs.google.com/forms/d/e/1FAIpQLSchgs_wIJTDyVWRkhw-UkVPZlcrOb9fNdqNssjMouOqbE4C4Q/viewform",0,null))},
 $S:0}
 A.Y3.prototype={
 $1(a){return new A.nV(0,50,new A.vB(a,null),null)},
 $S:149}
 A.Y4.prototype={
-$0(){A.h2(A.fV("https://forms.gle/A82kK51trfraJXtCA",0,null))},
+$0(){A.h2(A.fV("https://docs.google.com/forms/d/e/1FAIpQLSchgs_wIJTDyVWRkhw-UkVPZlcrOb9fNdqNssjMouOqbE4C4Q/viewform",0,null))},
 $S:0}
 A.Gr.prototype={
 K(a,b){return new A.Hs(new A.Yb(),null)}}
